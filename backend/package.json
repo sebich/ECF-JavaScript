@@ -1,0 +1,19 @@
+{
+  "name": "villes",
+  "version": "1.0.0",
+  "description": "description villes",
+  "main": "villes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "db-query": "^0.1.4",
+    "express": "^4.16.4",
+    "my-sql": "^1.2.15",
+    "nodemon": "^1.18.6",
+    "pug": "^2.0.3"
+  }
+}
